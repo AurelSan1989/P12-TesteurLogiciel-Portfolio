@@ -92,6 +92,22 @@ header {
 #portfolio p {
     text-align: center;
 }
+.portfolioContent {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.portfolioContent:hover,
+.portfolioContent:focus-within {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+.portfolioContent a {
+    text-decoration: none;
+    color: inherit;
+}
+.portfolioContent:hover a,
+.portfolioContent:focus-within {
+    color: #198754;
+}
 
 /* contact */
 .contactColumn {

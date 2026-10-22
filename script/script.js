@@ -77,11 +77,12 @@ function createPortfolioFromJSON() {
                     <div class="card portfolioContent">
                     <img class="card-img-top" src="images/${item.image}" style="width:100%" alt="${item.alt}" loading="lazy" >
                     <div class="card-body">
-                        <h3 class="h4 card-title">${item.title}</h3>
-                        <p class="card-text">${item.text}</p>
-                        <div class="text-center">
-                            <a href="${item.link}" class="btn btn-success">Lien</a>
-                        </div>
+                        <h3 class="h4 card-title">
+                            <a href="${item.link}" class="stretched-link" target="_blank" rel="noopener noreferrer">
+                                ${item.title}<span class="visually-hidden"> (nouvel onglet)</span>
+                            </a>
+                        </h3>
+                        <p class="card-text">${item.text}</p>                        
                     </div>
                 </div>
                 `;
