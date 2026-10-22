@@ -19,7 +19,12 @@
 
 /* display background dark color on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: #5b5b5b;
+    background-color: #212529;
+}
+
+/* header background color */
+header {
+    background-color: #0b0b2b;
 }
 
 /* hero background image */
