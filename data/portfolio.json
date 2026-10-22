@@ -1,18 +1,21 @@
 [
     {
         "image": "booki.webp",
+        "alt" : "Aperçu du site Booki, plateforme de réservation d'hébergements",
         "title": "Booki",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "link": "#"
     },
     {
         "image": "mon-vieux-grimoire.webp",
+        "alt" : "Aperçu du site Mon Vieux Grimoire, plateforme de notation de livres",
         "title": "Mon Vieux grimoire",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "link": "#"
     },
     {
         "image": "kasa.webp",
+        "alt" : "Aperçu du site Kasa, plateforme de location de logements",
         "title": "Kasa",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "link": "#"
