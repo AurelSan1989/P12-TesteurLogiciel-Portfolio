@@ -7,10 +7,10 @@
         "link": "#"
     },
     {
-        "image": "mon-vieux-grimoire.webp",
-        "alt" : "Aperçu du site Mon Vieux Grimoire, plateforme de notation de livres",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "image": "tomsen.webp",
+        "title": "TOMSEN",
+        "text": "Conception des tests d'une application bancaire avant son développement. Revue des spécifications (49 questions), stratégie de test en 6 scénarios et cahier de recette de 68 cas de test, avec traçabilité des exigences.",
+        "alt": "Projet TOMSEN : 49 questions de revue, 6 scénarios de test et 68 cas de test",
         "link": "#"
     },
     {
