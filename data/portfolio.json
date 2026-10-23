@@ -1,10 +1,10 @@
 [
     {
-        "image": "booki.webp",
-        "alt" : "Aperçu du site Booki, plateforme de réservation d'hébergements",
-        "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "image": "eco-bliss-bath.webp",
+        "alt" : "Résultat de la campagne Cypress : 15 tests, 14 réussis, 1 échec révélant une anomalie",
+        "title": "Eco-Bliss-Bath",
+        "text": "Automatisation des tests d'une boutique en ligne avec Cypress : 15 tests API, fonctionnels et smoke tests. La campagne a révélé une anomalie critique, l'ajout au panier de produits en rupture de stock.",
+        "link": "https://github.com/AurelSan1989/Eco-Bliss-Bath-V2"
     },
     {
         "image": "tomsen.webp",
