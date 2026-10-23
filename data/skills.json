@@ -1,38 +1,32 @@
 [
     {
-        "image": "html-css.jpg",
-        "alt" : "Logos HTML5 et CSS3",
-        "title": "HTML - CSS",
-        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
+        "image": "test.png",
+        "title": "Conception des tests",
+        "text": "Revue des spécifications, stratégie de test et cahier de recette, avec traçabilité entre exigences et cas de test."
     },
     {
-        "image": "js.jpg",
-        "alt" : "Logo JavaScript",
-        "title": "javascript",
-        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
+        "image": "automatisation-des-tests.png",
+        "title": "Automatisation des tests",
+        "text": "Tests de bout en bout et d’API avec Cypress, commandes personnalisées et tests fiables, sans délais d’attente fixes."
+    },
+    {
+        "image": "gestion-des-anomalies.png",
+        "title": "Gestion des anomalies",
+        "text": "Reproduction, qualification et rédaction de rapports d'incident, suivi des anomalies sur Jira."
     },
     {
         "image": "react.jpg",
-        "alt" : "Logo React",
-        "title": "React",
-        "text": "Création d’applications React, création de composants et manipulation de leur état"
-    },
-    {
-        "image": "gestion-de-projet.png",
-        "alt" :"Tableau de tâches organisé en colonnes",
-        "title": "Gestion de projet",
-        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet"
-    },
+        "title": "Développement front-end",
+        "text": "Interfaces en HTML, CSS, JavaScript et React, et tests unitaires de composants avec Vitest."
+    }, 
     {
         "image": "optimisation-et-debug.png",
-        "alt" : "Compteur de vitesse dans une fenêtre de navigateur",
-        "title": "Optimisation et debug",
-        "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne"
-    },
+        "title": "Accessibilité et performance",
+        "text": "Audits Lighthouse et WAVE, contrastes, textes alternatifs, structure des titres et optimisation des images."
+    }, 
     {
-        "image": "test.png",
-        "alt" : "Schéma de cases validées autour d'un engrenage",
-        "title": "Test",
-        "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
-    }
+        "image": "gestion-de-projet.png",
+        "title": "Gestion de projet agile",
+        "text": "Spécifications techniques, tableau Kanban et pilotage d'un projet dans le rôle de Product Owner."
+    }    
 ]
