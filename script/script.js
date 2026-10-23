@@ -38,7 +38,7 @@ function createSkillsFromJSON() {
                 const card = document.createElement("div");
                 card.classList.add("col-lg-4", "mt-4");
                 card.innerHTML = `
-                    <div class="card skillsText">
+                    <div class="card skillsText h-100">
                         <div class="card-body">
                             <img src="./images/${item.image}" alt="" loading="lazy" />
                             <h3 class="h4 card-title mt-3">${item.title}</h3>
