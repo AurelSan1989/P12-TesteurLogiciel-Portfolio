@@ -15,7 +15,7 @@
     },
     {
         "image": "kasa.webp",
-        "alt" : "Aperçu du site Kasa, plateforme de location de logements",
+        "alt" : "Page d'un logement sur l'application Kasa : carrousel de photos et menus déroulants",
         "title": "Kasa",
         "text": "Développement d'une application de location de logements en React, avec React Router et CSS Modules. Composants clés couverts par 10 tests unitaires avec Vitest et React Testing Library.",
         "link": "https://github.com/AurelSan1989/P8-KASA"
