@@ -9,7 +9,7 @@
     <link rel="icon" href="/favicon.ico" sizes="any">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 </head>
-<body>
+<body class="d-flex flex-column min-vh-100">
     <header>
         <nav class="navbar fixed-top navbar-dark">
             <div class="container">
@@ -17,8 +17,8 @@
             </div>
         </nav>
     </header>
-    <main>
-        <section class="bgimage" id="home">
+    <main class="flex-grow-1 d-flex flex-column">
+        <section class="bgimage flex-grow-1 bgimage-404" id="home">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hero-text">
@@ -30,5 +30,13 @@
             </div>
         </section>
     </main>
+    <footer class="bg-dark pt-4">
+        <div class="text-center text-light py-4 small">
+            <p class="m-0">© 2026 Aurélien Girodet</p>
+            <p class="m-0">Éditeur : Aurélien Girodet (coordonnées dans la <a href="/#contact" class="text-light">section Contact</a>)</p>
+            <p class="m-0">Hébergeur : Cloudflare, Inc., 101 Townsend Street, San Francisco, CA 94107, États-Unis. Téléphone : +1 888 993 5273.</p>
+            <p class="m-0">Site réalisé à partir d'un modèle fourni par OpenClassrooms.</p>
+        </div>
+    </footer>
 </body>
 </html>

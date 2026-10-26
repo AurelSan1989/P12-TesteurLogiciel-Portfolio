@@ -35,6 +35,10 @@ header {
     background-size: cover;
     position: relative;
 }
+.bgimage-404 {
+    height: auto;
+    max-height: none;
+}
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
@@ -90,7 +94,7 @@ header {
     color: inherit;
 }
 .portfolioContent:hover a,
-.portfolioContent:focus-within {
+.portfolioContent:focus-within a {
     color: #198754;
 }
 
